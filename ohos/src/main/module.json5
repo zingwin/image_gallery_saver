@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "image_gallery_saver",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}
